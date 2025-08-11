@@ -20,7 +20,7 @@ const Events = () => {
   const allEvents = [
     {
       id: 1,
-      title: "Corporate Football Championship",
+      title: "Manufacturers' Sports Day 2025",
       description: "Annual inter-company football tournament featuring teams from leading corporations across Africa.",
       date: "March 15, 2024",
       location: "Nairobi Sports Complex",

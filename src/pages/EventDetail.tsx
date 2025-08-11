@@ -14,8 +14,8 @@ const EventDetail = () => {
   // Mock event data - would come from API
   const event = {
     id: 1,
-    title: "Corporate Football Championship",
-    description: "Annual inter-company football tournament featuring teams from leading corporations across Africa.",
+    title: "Manufacturers' Sports Day 2025",
+    description: "Annual inter-company football tournament featuring teams from leading Manufacturers across Kenya.",
     date: "March 15, 2024",
     location: "Nairobi Sports Complex",
     participants: 120,
